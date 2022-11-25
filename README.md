@@ -6,4 +6,4 @@ This code is the companion code for the paper "Proposal of a Score Based Approac
 Files:
 * ***basic_neurips_example_final.py***: implementation of algorithm on 1 dimensional example
 * ***himmelblau_sampler_final.py***: implementation of algorithm on 2 dimensional example
-* **test_animation.mp4***: animation of 1 dimensional histogram example as samples converge to target density
+* ***test_animation.mp4***: animation of 1 dimensional histogram example as samples converge to target density
